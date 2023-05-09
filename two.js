@@ -1,4 +1,4 @@
-let scrlBtn = document.querySelector("#scrolling");
+let scrlBtn = document.getElementById("scrolling");
 
 window.onscroll = function () {
   if (window.scrollY >= 550) {
