@@ -112,6 +112,11 @@ body #scrolling i {
         transform: translateY(3px);
     }
 }
+@media (max-width: 991px) {
+    body #scrolling {
+    display: none;
+    }
+}
 /* Scrolling Btn  */
 /* Start Header */
 header {
