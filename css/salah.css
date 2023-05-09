@@ -208,7 +208,7 @@ header .container .form i {
 .landing {
     min-height: 100vh;
     background-color: var(--main-color);
-    background-image: url(/images/owl-nature-forest-qv-1920x1080.jpg);
+    background-image: url(images/owl-nature-forest-qv-1920x1080.jpg);
     background-size: cover;
     position: relative;
 }
@@ -333,7 +333,7 @@ header .container .form i {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     height: 500px;
-    background-image: url(/images/cov.jpg);
+    background-image: url(images/cov.jpg);
     background-size: cover;
     position: relative;
     display: flex;
@@ -532,7 +532,7 @@ header .container .form i {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    background-image: url(/images/cover.jpg);
+    background-image: url(images/cover.jpg);
     background-size: cover;
     position: relative;
 }
@@ -709,7 +709,7 @@ header .container .form i {
 .qoute {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/background.jpg);
+    background-image: url(images/background.jpg);
     background-size: 100% 100%;
     text-align: center;
     position: relative;
@@ -840,7 +840,7 @@ q::after {
 .sub {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/edge.jpg);
+    background-image: url(images/edge.jpg);
     background-size: cover;
     position: relative;
 }
