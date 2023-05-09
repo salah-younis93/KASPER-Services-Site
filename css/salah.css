@@ -1032,5 +1032,6 @@ q::after {
     color: var(--main-color);
     font-weight: bold;
     margin-right: 10px;
+    cursor: pointer;
 }
 /* End Footer */
