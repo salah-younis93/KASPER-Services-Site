@@ -338,7 +338,7 @@ header .container .form i {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     height: 500px;
-    background-image: url(images/cov.jpg);
+    background-image: url(Project-Two/images/cov.jpg);
     background-size: cover;
     position: relative;
     display: flex;
