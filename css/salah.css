@@ -208,7 +208,7 @@ header .container .form i {
 .landing {
     min-height: 100vh;
     background-color: var(--main-color);
-    background-image: url(images/owl-nature-forest-qv-1920x1080.JPG);
+    background-image: url(images/owl-nature-forest-qv-1920x1080.jpg);
     background-size: cover;
     position: relative;
 }
